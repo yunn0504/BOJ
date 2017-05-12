@@ -15,10 +15,10 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="1032.cpp">
+    <ClCompile Include="11048.cpp">
       <Filter>리소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="1992.cpp">
+    <ClCompile Include="2667.cpp">
       <Filter>리소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
